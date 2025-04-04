@@ -29,7 +29,7 @@ This application provides tools to analyze, summarize, and quiz users on YouTube
 
 3. Start the enhanced quiz backend server:
    ```
-   python app1.py
+   python app.py
    ```
    This will run the server on port 5001.
 
